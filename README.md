@@ -1,2 +1,4 @@
-# webpage
-An introductory webpage for VideoGameBaby
+<h1> Welcome to Cornell Baby Lab!</h1>
+
+[VideoGameBaby] (cocozxu.github.io)
+
