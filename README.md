@@ -1,4 +1,4 @@
-<h1> Welcome to Cornell Baby Lab!</h1>
+<h1> Welcome to Coco's page!</h1>
 
-[VideoGameBaby] (cocozxu.github.io)
+
 
